@@ -30,7 +30,5 @@
 [website]: https://lukibro.de
 [youtube]: https://www.youtube.com/channel/UC-JG7wotvBWLK3cBMqB2jtA
 [instagram]: https://instagram.com/3d-lukibro
-[linkedin]: https://www.linkedin.com/in/lukas-b-386065198/
-[xing]: https://www.xing.com/profile/Lukas_Broghammer2/portfolio
 [thingiverse]: https://www.thingiverse.com/lukibro/designs
 [prusaprinters]:https://www.prusaprinters.org/social/65134-lukibro/prints
