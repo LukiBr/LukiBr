@@ -4,12 +4,10 @@
 **LukiBr/LukiBr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Work smart not hard!
 
 ### About me:
 
-- I'm a IT-Security Student
-- Live in the southern part of Germany
+- I'm a german Student
 - Entrepreneur
 - DIY enthusiast
 
